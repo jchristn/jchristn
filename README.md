@@ -7,3 +7,5 @@ If you've found value in the software I've published and wish to support me, ple
 - [LinkedIn](https://www.linkedin.com/in/joelchristner/)
 - [NuGet](https://www.nuget.org/profiles/jchristn)
 - [Google Scholar](https://scholar.google.com/citations?user=Yg_E8dcAAAAJ&hl=en&oi=ao)
+- [Discord](https://discord.gg/tRAN8HgvK5)
+- 
